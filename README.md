@@ -21,7 +21,7 @@ bedtwL's Short Command is a BungeeCord plugin that allows server administrators 
 
 1. **Download the Plugin**: Place the `bedtwL's Short Command` plugin JAR file into the `plugins` folder of your BungeeCord server.
 2. **Restart the Server**: Restart your BungeeCord server to generate the default configuration file.
-3. **Configure the Plugin**: Open the `config.yml` file in the `plugins/bedtwL's Short Command` folder to configure your custom commands.
+3. **Configure the Plugin**: Open the `config.yml` file in the `plugins/ProxyShortCommand` folder to configure your custom commands.
 4. **Reload Commands**: Use the `/pcmd reload` command to reload the commands after making changes to the `config.yml` file.
 
 ### Configuration
