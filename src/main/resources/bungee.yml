@@ -1,0 +1,4 @@
+name: ProxyShortCommand
+version: '${project.version}'
+main: me.bedtwL.proxyshortcommand.Main
+author: bedtwL
