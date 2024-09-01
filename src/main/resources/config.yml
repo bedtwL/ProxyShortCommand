@@ -1,0 +1,11 @@
+commands:
+  example-command:
+    server: "example_server"
+    message: "You have been sent to example_server!"
+    permission: "bedtwl.example.permission"
+    aliases: ["ex", "example"]
+  another-command:
+    server: "another_server"
+    message: null
+    permission: null
+    aliases: []
