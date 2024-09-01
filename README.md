@@ -66,5 +66,3 @@ commands:
 ### Support
 
 For support or to report issues, please visit our GitHub repository or contact the developer directly.
-
-Feel free to modify or expand this `README.md` to include any additional information relevant to your plugin or server setup.
